@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Nettoyage de la base de données (rescencement du ménages 2014 ) en utilisant le langage R ](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
