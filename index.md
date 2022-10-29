@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Nettoyage de la base de données (rescencement du ménages 2014 ) en utilisant le langage R ](/sample_page)
+[Nettoyage et visualisation des données en utilisant le langage R et SPSS  ](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Création d'un jeu classique (ping pong ) en utilisant le javascript](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
